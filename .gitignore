@@ -1,0 +1,36 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Data and results (too large / regenerable)
+data/
+results/
+*.pkl
+*.npy
+*.npz
+*.csv
+!experiments/configs/*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Report build artifacts
+report/*.aux
+report/*.log
+report/*.out
+report/*.pdf
+!report/final.pdf
