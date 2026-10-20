@@ -13,7 +13,7 @@ Datasets: 2 tabular (OpenML) + 1 embeddings (CIFAR10 or IMDB).
 
 ## Team
 
-- Elena: Beta Shapley, repo setup, data pipeline
+- TBD: Beta Shapley, repo setup, data pipeline
 - TBD: Data Banzhaf, evaluation module
 - TBD: Data-OOB, scaling and quality-cost analysis
 
