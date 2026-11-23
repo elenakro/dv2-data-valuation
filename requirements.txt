@@ -1,27 +1,20 @@
-﻿# Core data valuation libraries
-opendataval==1.3.0
+﻿opendataval==1.3.0
 pydvl==0.9.2
+transformers==4.35.2  # newer versions need torch>=2.2, opendataval pins torch 2.1
 
-# ML / data
-scikit-learn==1.5.2
-numpy==1.26.4
-pandas==2.2.3
-scipy==1.14.1
+# pinned to what opendataval supports (numpy<1.26, pandas<2, ...)
+numpy==1.25.2
+pandas==1.5.3
+scipy==1.11.4
+scikit-learn==1.3.2
+matplotlib==3.8.4
 
-# Plotting
-matplotlib==3.9.2
+# after installing: pip uninstall -y osqp  (crashes on Windows, not used)
+
 seaborn==0.13.2
-
-# Statistics
 statsmodels==0.14.4
-
-# Progress / utilities
-tqdm==4.66.5
+psutil==7.2.2
 joblib==1.4.2
-
-# Jupyter
+pyyaml==6.0.2
 jupyter==1.1.1
 ipykernel==6.29.5
-
-# Reproducibility
-pyyaml==6.0.2
