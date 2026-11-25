@@ -4,7 +4,6 @@ from src.models import SafeLogisticRegression
 
 REMOVAL_FRACTIONS = np.round(np.arange(0, 0.55, 0.05), 2)
 
-
 def noisy_label_detection(values, noisy_idx):
     # flag the k lowest-valued points, k = number of noisy points
     k = len(noisy_idx)
