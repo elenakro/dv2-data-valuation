@@ -1,0 +1,1160 @@
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/parallel/backend.py:98: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/parallel/backends/joblib.py:36: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/parallel/futures/__init__.py:17: FutureWarning: target=None is deprecated since `v0.8`; use `TargetMode.NOTIFY` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/parallel/map_reduce.py:91: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/least_core/common.py:153: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/least_core/montecarlo.py:28: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/least_core/montecarlo.py:109: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/loo/loo.py:16: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:308: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:487: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:557: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:625: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:692: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:763: UserWarning: `@deprecated` on class `SemiValueMode` now dispatches to `@deprecated_class`. Note: non-class `target` values are ignored when deprecating classes; use `@deprecated_class(target=...)` instead.
+  @deprecated(target=True, deprecated_in="0.7.0", remove_in="0.8.0")
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:763: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(target=True, deprecated_in="0.7.0", remove_in="0.8.0")
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:763: UserWarning: `@deprecated(target=TargetMode.ARGS_REMAP)` on `SemiValueMode` requires `args_mapping` to specify which arguments are being renamed. Without it the decorator has zero effect. This will be `TypeError` in `v1.0`.
+  @deprecated(target=True, deprecated_in="0.7.0", remove_in="0.8.0")
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:777: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(target=True, deprecated_in="0.7.0", remove_in="0.8.0")
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/shapley/classwise.py:237: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/shapley/gt.py:173: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/shapley/montecarlo.py:130: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/shapley/montecarlo.py:306: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/shapley/naive.py:112: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/shapley/owen.py:115: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+===========================================================================
+DATA-OOB MULTIPLE SEEDS EXPERIMENT
+===========================================================================
+
+Experiment 1/9
+Random seed: 42
+Noise rate: 5%
+
+============================================================
+DATA-OOB NOISE DETECTION - NOISE 5%
+============================================================
+Training samples:   600
+Validation samples: 150
+Test samples:       250
+Noisy samples:      30
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+
+RESULTS
+------------------------------------------------------------
+Precision:       0.2667
+Recall:          0.2667
+F1-score:        0.2667
+Test Accuracy:   0.8760
+Execution time:  1.16 seconds
+
+Experiment 2/9
+Random seed: 42
+Noise rate: 10%
+
+============================================================
+DATA-OOB NOISE DETECTION - NOISE 10%
+============================================================
+Training samples:   600
+Validation samples: 150
+Test samples:       250
+Noisy samples:      60
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+
+RESULTS
+------------------------------------------------------------
+Precision:       0.5000
+Recall:          0.5000
+F1-score:        0.5000
+Test Accuracy:   0.8480
+Execution time:  1.10 seconds
+
+Experiment 3/9
+Random seed: 42
+Noise rate: 20%
+
+============================================================
+DATA-OOB NOISE DETECTION - NOISE 20%
+============================================================
+Training samples:   600
+Validation samples: 150
+Test samples:       250
+Noisy samples:      120
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+
+RESULTS
+------------------------------------------------------------
+Precision:       0.5500
+Recall:          0.5500
+F1-score:        0.5500
+Test Accuracy:   0.8640
+Execution time:  1.08 seconds
+
+Experiment 4/9
+Random seed: 123
+Noise rate: 5%
+
+============================================================
+DATA-OOB NOISE DETECTION - NOISE 5%
+============================================================
+Training samples:   600
+Validation samples: 150
+Test samples:       250
+Noisy samples:      30
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+
+RESULTS
+------------------------------------------------------------
+Precision:       0.4667
+Recall:          0.4667
+F1-score:        0.4667
+Test Accuracy:   0.7320
+Execution time:  1.15 seconds
+
+Experiment 5/9
+Random seed: 123
+Noise rate: 10%
+
+============================================================
+DATA-OOB NOISE DETECTION - NOISE 10%
+============================================================
+Training samples:   600
+Validation samples: 150
+Test samples:       250
+Noisy samples:      60
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+
+RESULTS
+------------------------------------------------------------
+Precision:       0.3833
+Recall:          0.3833
+F1-score:        0.3833
+Test Accuracy:   0.7520
+Execution time:  1.08 seconds
+
+Experiment 6/9
+Random seed: 123
+Noise rate: 20%
+
+============================================================
+DATA-OOB NOISE DETECTION - NOISE 20%
+============================================================
+Training samples:   600
+Validation samples: 150
+Test samples:       250
+Noisy samples:      120
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+
+RESULTS
+------------------------------------------------------------
+Precision:       0.6083
+Recall:          0.6083
+F1-score:        0.6083
+Test Accuracy:   0.7320
+Execution time:  1.11 seconds
+
+Experiment 7/9
+Random seed: 2026
+Noise rate: 5%
+
+============================================================
+DATA-OOB NOISE DETECTION - NOISE 5%
+============================================================
+Training samples:   600
+Validation samples: 150
+Test samples:       250
+Noisy samples:      30
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+
+RESULTS
+------------------------------------------------------------
+Precision:       0.2000
+Recall:          0.2000
+F1-score:        0.2000
+Test Accuracy:   0.7800
+Execution time:  1.06 seconds
+
+Experiment 8/9
+Random seed: 2026
+Noise rate: 10%
+
+============================================================
+DATA-OOB NOISE DETECTION - NOISE 10%
+============================================================
+Training samples:   600
+Validation samples: 150
+Test samples:       250
+Noisy samples:      60
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+
+RESULTS
+------------------------------------------------------------
+Precision:       0.3333
+Recall:          0.3333
+F1-score:        0.3333
+Test Accuracy:   0.7680
+Execution time:  1.06 seconds
+
+Experiment 9/9
+Random seed: 2026
+Noise rate: 20%
+
+============================================================
+DATA-OOB NOISE DETECTION - NOISE 20%
+============================================================
+Training samples:   600
+Validation samples: 150
+Test samples:       250
+Noisy samples:      120
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+
+RESULTS
+------------------------------------------------------------
+Precision:       0.5417
+Recall:          0.5417
+F1-score:        0.5417
+Test Accuracy:   0.7720
+Execution time:  1.07 seconds
+
+==========================================================================================
+FINAL RESULTS - MEAN ± STANDARD DEVIATION
+==========================================================================================
+
+Noise: 5%
+precision: 0.3111 ± 0.1388
+recall: 0.3111 ± 0.1388
+f1_score: 0.3111 ± 0.1388
+test_accuracy: 0.7960 ± 0.0733
+execution_time: 1.1226 ± 0.0577
+
+Noise: 10%
+precision: 0.4056 ± 0.0855
+recall: 0.4056 ± 0.0855
+f1_score: 0.4056 ± 0.0855
+test_accuracy: 0.7893 ± 0.0514
+execution_time: 1.0776 ± 0.0179
+
+Noise: 20%
+precision: 0.5667 ± 0.0363
+recall: 0.5667 ± 0.0363
+f1_score: 0.5667 ± 0.0363
+test_accuracy: 0.7893 ± 0.0677
+execution_time: 1.0840 ± 0.0189
+
+FILES SAVED:
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/Data OOB/results/raw/noise_detection_all_seeds.csv
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/Data OOB/results/raw/noise_detection_summary.csv
+
+ALL EXPERIMENTS COMPLETED SUCCESSFULLY

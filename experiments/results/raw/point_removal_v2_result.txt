@@ -1,0 +1,483 @@
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/parallel/backend.py:98: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/parallel/backends/joblib.py:36: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/parallel/futures/__init__.py:17: FutureWarning: target=None is deprecated since `v0.8`; use `TargetMode.NOTIFY` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/parallel/map_reduce.py:91: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/least_core/common.py:153: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/least_core/montecarlo.py:28: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/least_core/montecarlo.py:109: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/loo/loo.py:16: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:308: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:487: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:557: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:625: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:692: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:763: UserWarning: `@deprecated` on class `SemiValueMode` now dispatches to `@deprecated_class`. Note: non-class `target` values are ignored when deprecating classes; use `@deprecated_class(target=...)` instead.
+  @deprecated(target=True, deprecated_in="0.7.0", remove_in="0.8.0")
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:763: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(target=True, deprecated_in="0.7.0", remove_in="0.8.0")
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:763: UserWarning: `@deprecated(target=TargetMode.ARGS_REMAP)` on `SemiValueMode` requires `args_mapping` to specify which arguments are being renamed. Without it the decorator has zero effect. This will be `TypeError` in `v1.0`.
+  @deprecated(target=True, deprecated_in="0.7.0", remove_in="0.8.0")
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:777: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(target=True, deprecated_in="0.7.0", remove_in="0.8.0")
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/shapley/classwise.py:237: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/shapley/gt.py:173: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/shapley/montecarlo.py:130: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/shapley/montecarlo.py:306: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/shapley/naive.py:112: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/shapley/owen.py:115: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+=================================================================
+DATA-OOB - POINT REMOVAL WITH RANDOM BASELINE
+=================================================================
+
+=================================================================
+POINT REMOVAL - SEED 42
+=================================================================
+Training samples: 600
+Validation samples: 150
+Test samples: 250
+
+Calculating Data-OOB...
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Data-OOB time: 1.040s
+
+Strategy: remove_lowest_first
+Removed:   0% | Remaining: 600 | Accuracy: 0.8600
+Removed:  10% | Remaining: 540 | Accuracy: 0.8520
+Removed:  20% | Remaining: 480 | Accuracy: 0.8520
+Removed:  30% | Remaining: 420 | Accuracy: 0.8680
+Removed:  40% | Remaining: 360 | Accuracy: 0.8560
+Removed:  50% | Remaining: 300 | Accuracy: 0.8320
+
+Strategy: remove_highest_first
+Removed:   0% | Remaining: 600 | Accuracy: 0.8600
+Removed:  10% | Remaining: 540 | Accuracy: 0.8600
+Removed:  20% | Remaining: 480 | Accuracy: 0.8600
+Removed:  30% | Remaining: 420 | Accuracy: 0.8600
+Removed:  40% | Remaining: 360 | Accuracy: 0.8560
+Removed:  50% | Remaining: 300 | Accuracy: 0.8280
+
+Strategy: random_removal
+Removed:   0% | Remaining: 600 | Accuracy: 0.8600
+Removed:  10% | Remaining: 540 | Accuracy: 0.8440
+Removed:  20% | Remaining: 480 | Accuracy: 0.8440
+Removed:  30% | Remaining: 420 | Accuracy: 0.8440
+Removed:  40% | Remaining: 360 | Accuracy: 0.8520
+Removed:  50% | Remaining: 300 | Accuracy: 0.8440
+
+=================================================================
+POINT REMOVAL - SEED 123
+=================================================================
+Training samples: 600
+Validation samples: 150
+Test samples: 250
+
+Calculating Data-OOB...
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Data-OOB time: 1.012s
+
+Strategy: remove_lowest_first
+Removed:   0% | Remaining: 600 | Accuracy: 0.7640
+Removed:  10% | Remaining: 540 | Accuracy: 0.7440
+Removed:  20% | Remaining: 480 | Accuracy: 0.7600
+Removed:  30% | Remaining: 420 | Accuracy: 0.7520
+Removed:  40% | Remaining: 360 | Accuracy: 0.7440
+Removed:  50% | Remaining: 300 | Accuracy: 0.7520
+
+Strategy: remove_highest_first
+Removed:   0% | Remaining: 600 | Accuracy: 0.7640
+Removed:  10% | Remaining: 540 | Accuracy: 0.7560
+Removed:  20% | Remaining: 480 | Accuracy: 0.7520
+Removed:  30% | Remaining: 420 | Accuracy: 0.7560
+Removed:  40% | Remaining: 360 | Accuracy: 0.7480
+Removed:  50% | Remaining: 300 | Accuracy: 0.7120
+
+Strategy: random_removal
+Removed:   0% | Remaining: 600 | Accuracy: 0.7640
+Removed:  10% | Remaining: 540 | Accuracy: 0.7320
+Removed:  20% | Remaining: 480 | Accuracy: 0.7440
+Removed:  30% | Remaining: 420 | Accuracy: 0.7240
+Removed:  40% | Remaining: 360 | Accuracy: 0.7320
+Removed:  50% | Remaining: 300 | Accuracy: 0.7200
+
+=================================================================
+POINT REMOVAL - SEED 2026
+=================================================================
+Training samples: 600
+Validation samples: 150
+Test samples: 250
+
+Calculating Data-OOB...
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Data-OOB time: 1.022s
+
+Strategy: remove_lowest_first
+Removed:   0% | Remaining: 600 | Accuracy: 0.7560
+Removed:  10% | Remaining: 540 | Accuracy: 0.7800
+Removed:  20% | Remaining: 480 | Accuracy: 0.7800
+Removed:  30% | Remaining: 420 | Accuracy: 0.7720
+Removed:  40% | Remaining: 360 | Accuracy: 0.7800
+Removed:  50% | Remaining: 300 | Accuracy: 0.7760
+
+Strategy: remove_highest_first
+Removed:   0% | Remaining: 600 | Accuracy: 0.7560
+Removed:  10% | Remaining: 540 | Accuracy: 0.7720
+Removed:  20% | Remaining: 480 | Accuracy: 0.7720
+Removed:  30% | Remaining: 420 | Accuracy: 0.7760
+Removed:  40% | Remaining: 360 | Accuracy: 0.7640
+Removed:  50% | Remaining: 300 | Accuracy: 0.3880
+
+Strategy: random_removal
+Removed:   0% | Remaining: 600 | Accuracy: 0.7560
+Removed:  10% | Remaining: 540 | Accuracy: 0.7640
+Removed:  20% | Remaining: 480 | Accuracy: 0.7600
+Removed:  30% | Remaining: 420 | Accuracy: 0.7520
+Removed:  40% | Remaining: 360 | Accuracy: 0.7480
+Removed:  50% | Remaining: 300 | Accuracy: 0.7480
+
+=================================================================
+POINT REMOVAL EXPERIMENT COMPLETED
+=================================================================
+
+Total experiments: 54
+
+SUMMARY RESULTS:
+            strategy  removal_fraction     mean      std
+      random_removal               0.0 0.793333 0.057873
+      random_removal               0.1 0.780000 0.057689
+      random_removal               0.2 0.782667 0.053715
+      random_removal               0.3 0.773333 0.062780
+      random_removal               0.4 0.777333 0.065156
+      random_removal               0.5 0.770667 0.065033
+remove_highest_first               0.0 0.793333 0.057873
+remove_highest_first               0.1 0.796000 0.056000
+remove_highest_first               0.2 0.794667 0.057457
+remove_highest_first               0.3 0.797333 0.055185
+remove_highest_first               0.4 0.789333 0.058287
+remove_highest_first               0.5 0.642667 0.228047
+ remove_lowest_first               0.0 0.793333 0.057873
+ remove_lowest_first               0.1 0.792000 0.054991
+ remove_lowest_first               0.2 0.797333 0.048387
+ remove_lowest_first               0.3 0.797333 0.062011
+ remove_lowest_first               0.4 0.793333 0.057178
+ remove_lowest_first               0.5 0.786667 0.041053
+
+FILES CREATED:
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/Data OOB/results/raw/point_removal_all_seeds.csv
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/Data OOB/results/raw/point_removal_summary.csv
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/Data OOB/results/figures/point_removal_comparison.png

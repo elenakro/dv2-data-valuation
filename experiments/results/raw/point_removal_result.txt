@@ -1,0 +1,205 @@
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/parallel/backend.py:98: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/parallel/backends/joblib.py:36: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/parallel/futures/__init__.py:17: FutureWarning: target=None is deprecated since `v0.8`; use `TargetMode.NOTIFY` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/parallel/map_reduce.py:91: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/least_core/common.py:153: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/least_core/montecarlo.py:28: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/least_core/montecarlo.py:109: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/loo/loo.py:16: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:308: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:487: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:557: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:625: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:692: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:763: UserWarning: `@deprecated` on class `SemiValueMode` now dispatches to `@deprecated_class`. Note: non-class `target` values are ignored when deprecating classes; use `@deprecated_class(target=...)` instead.
+  @deprecated(target=True, deprecated_in="0.7.0", remove_in="0.8.0")
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:763: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(target=True, deprecated_in="0.7.0", remove_in="0.8.0")
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:763: UserWarning: `@deprecated(target=TargetMode.ARGS_REMAP)` on `SemiValueMode` requires `args_mapping` to specify which arguments are being renamed. Without it the decorator has zero effect. This will be `TypeError` in `v1.0`.
+  @deprecated(target=True, deprecated_in="0.7.0", remove_in="0.8.0")
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/semivalues.py:777: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(target=True, deprecated_in="0.7.0", remove_in="0.8.0")
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/shapley/classwise.py:237: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/shapley/gt.py:173: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/shapley/montecarlo.py:130: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/shapley/montecarlo.py:306: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/shapley/naive.py:112: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+/home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/.venv/lib/python3.12/site-packages/pydvl/value/shapley/owen.py:115: FutureWarning: target=True is deprecated since `v0.8`; use `TargetMode.ARGS_REMAP` instead. Will be removed in `v1.0`.
+  @deprecated(
+=================================================================
+DATA-OOB - POINT REMOVAL EXPERIMENT
+=================================================================
+
+[1/5] Generating dataset...
+Training samples:   600
+Validation samples: 150
+Test samples:       250
+
+[2/5] Calculating Data-OOB values...
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Casting ValuationResult.names from object to object
+Data-OOB calculation time: 1.039 seconds
+Data-OOB values: 600
+
+[3/5] Running point removal experiments...
+
+Strategy: remove_lowest_first
+Removed:   0% | Remaining:  600 | Test Accuracy: 0.8600 | Time: 0.008s
+Removed:  10% | Remaining:  540 | Test Accuracy: 0.8520 | Time: 0.010s
+Removed:  20% | Remaining:  480 | Test Accuracy: 0.8520 | Time: 0.010s
+Removed:  30% | Remaining:  420 | Test Accuracy: 0.8680 | Time: 0.006s
+Removed:  40% | Remaining:  360 | Test Accuracy: 0.8560 | Time: 0.006s
+Removed:  50% | Remaining:  300 | Test Accuracy: 0.8320 | Time: 0.006s
+
+Strategy: remove_highest_first
+Removed:   0% | Remaining:  600 | Test Accuracy: 0.8600 | Time: 0.008s
+Removed:  10% | Remaining:  540 | Test Accuracy: 0.8600 | Time: 0.009s
+Removed:  20% | Remaining:  480 | Test Accuracy: 0.8600 | Time: 0.008s
+Removed:  30% | Remaining:  420 | Test Accuracy: 0.8600 | Time: 0.007s
+Removed:  40% | Remaining:  360 | Test Accuracy: 0.8560 | Time: 0.007s
+Removed:  50% | Remaining:  300 | Test Accuracy: 0.8280 | Time: 0.007s
+
+[4/5] Saving results...
+CSV saved: /home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/Data OOB/results/raw/point_removal_results.csv
+
+[5/5] Creating graph...
+Graph saved: /home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/Data OOB/results/figures/point_removal_accuracy.png
+
+=================================================================
+POINT REMOVAL EXPERIMENT COMPLETED
+=================================================================
+
+Results:
+            strategy  removal_fraction  removed_samples  remaining_samples  test_accuracy  training_time  data_oob_time
+ remove_lowest_first               0.0                0                600          0.860       0.007939       1.038712
+ remove_lowest_first               0.1               60                540          0.852       0.009942       1.038712
+ remove_lowest_first               0.2              120                480          0.852       0.010369       1.038712
+ remove_lowest_first               0.3              180                420          0.868       0.005700       1.038712
+ remove_lowest_first               0.4              240                360          0.856       0.005658       1.038712
+ remove_lowest_first               0.5              300                300          0.832       0.005855       1.038712
+remove_highest_first               0.0                0                600          0.860       0.007901       1.038712
+remove_highest_first               0.1               60                540          0.860       0.008750       1.038712
+remove_highest_first               0.2              120                480          0.860       0.008133       1.038712
+remove_highest_first               0.3              180                420          0.860       0.007397       1.038712
+remove_highest_first               0.4              240                360          0.856       0.006912       1.038712
+remove_highest_first               0.5              300                300          0.828       0.006830       1.038712
+
+Files created:
+- /home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/Data OOB/results/raw/point_removal_results.csv
+- /home/lazarou/Desktop/Συστήματα Διαχείρισης Πληροφοριών/Data OOB/results/figures/point_removal_accuracy.png
